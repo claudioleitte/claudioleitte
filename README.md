@@ -1,6 +1,6 @@
   <H2>Hi</H2>
 
-I'm CLaudio. I'm a Backend Java Developer with strong expertise in Spring Boot and AWS. I'm passionate about building robust, scalable systems and always aim to follow the best practices in software development and architecture.
+I'm Claudio. I'm a Backend Java Developer with strong expertise in Spring Boot and AWS. I'm passionate about building robust, scalable systems and always aim to follow the best practices in software development and architecture.
 
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Backend Java Developer
