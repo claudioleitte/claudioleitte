@@ -1,4 +1,4 @@
-<H2>Hello,My name is Claudio Leite. </H2>
+<H2>Hello, my name is Claudio Leite. </H2>
 Backend Java Developer
 
 I'm a Backend Java Developer with strong expertise in Spring Boot and AWS Cloud. I'm passionate about building robust, scalable systems and always aim to follow the best practices in software development and architecture.
