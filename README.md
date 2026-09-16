@@ -1,28 +1,28 @@
 <h1 align="center">
-  Olá, eu sou o Claudio 👋
+  Hi, I'm Claudio
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Java+Developer;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFABC;Spring+Boot+%7C+PostgreSQL+%7C+Docker;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=500&height=45&color=2E86DE&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Java+Developer;Computer+Science+Student+at+UFABC;Spring+Boot+%7C+PostgreSQL+%7C+Docker;Always+learning+something+new&center=true&width=500&height=45&color=2E86DE&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:cclaudioleite25@gmail.com"><img src="https://img.shields.io/badge/Email-cclaudioleite25%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/claudio-leite25/"><img src="https://img.shields.io/badge/LinkedIn-claudio--leite25-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/São Caetano do Sul-SP, Brasil-2E86DE?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/São Caetano do Sul-SP, Brazil-2E86DE?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### About me
 
-- 🎓 Estudante de **Ciência da Computação** na UFABC
-- 💼 Estagiei no **Santander** (Consumer Credit Recovery)
-- 🌱 Em busca da minha primeira vaga como **Desenvolvedor Backend Java Júnior**
-- 🛠️ Construindo o **VetMemo**, um app de estudos estilo Duolingo para profissionais de veterinária, com geração de conteúdo por IA e repetição espaçada
-- 🗣️ Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
+- Computer Science student at **UFABC**
+- Former intern at **Santander** (Consumer Credit Recovery)
+- Looking for my first role as a **Junior Backend Java Developer**
+- Building **VetMemo**, a Duolingo-style study app for veterinary professionals, with AI-generated content and spaced repetition
+- Portuguese (native) · English (intermediate) · Spanish (intermediate)
 
-### 🧰 Stack
+### Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -36,21 +36,29 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🚀 Projetos em destaque
+### Featured projects
 
-- **[site-vendas](https://github.com/claudioleitte/site-vendas)** — sistema de vendas pessoal em Java/Spring Boot
-- **VetMemo** *(privado, em construção)* — app de estudos gamificado (Java/Spring Boot + Kotlin), com trilhas de conteúdo geradas por IA e revisadas antes do uso
-- **[TheHive](https://github.com/claudioleitte/TheHive)** — projeto de faculdade (UFABC) para conectar pessoas em busca de moradia
+- **[site-vendas](https://github.com/claudioleitte/site-vendas)** — personal e-commerce system built in Java/Spring Boot
+- **VetMemo** *(private, in progress)* — gamified study app (Java/Spring Boot + Kotlin) with AI-generated content tracks, reviewed before use
+- **[TheHive](https://github.com/claudioleitte/TheHive)** — university project (UFABC) connecting people looking for housing
 
-### 📊 Estatísticas
+### Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=claudioleitte&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioleitte&layout=compact&hide_border=true&theme=default" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudioleitte/claudioleitte/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudioleitte/claudioleitte/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/claudioleitte/claudioleitte/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades remotas e híbridas (São Paulo) como Desenvolvedor Backend Java Júnior 🚀</i>
+  <i>Open to remote and hybrid (São Paulo) opportunities as a Junior Backend Java Developer</i>
 </p>
