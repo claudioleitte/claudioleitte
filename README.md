@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:cclaudioleite25@gmail.com"><img src="https://img.shields.io/badge/Email-cclaudioleite25%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/claudio-leite25/"><img src="https://img.shields.io/badge/LinkedIn-claudio--leite25-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/São Caetano do Sul-SP, Brazil-2E86DE?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/São Bernardo do Campo-SP, Brazil-2E86DE?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
